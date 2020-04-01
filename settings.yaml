@@ -1,0 +1,6 @@
+browser: "Ie"
+os: "win"
+driver_name:
+  Chrome: "chromedriver.exe"
+  Firefox: "geckodriver.exe"
+  Ie: "IEDriverServer.exe"
